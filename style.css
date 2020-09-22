@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    margin: 2px;
+}
+
+.conteiner {
+    width: 100%;
+    background-color: red;
+    height: 60px;
+}
+.conteiner2 {
+    display: flex;
+
+}
+.child2 {
+    width: 150px;
+    height: 500px;
+    background-color: aqua;
+}
+.child4 {
+    width: 100%;
+    height: 500px;
+    background-color: saddlebrown;
+
+}
+.conteiner3 {
+    display: flex;
+    align-items: flex-start;
+
+}
+.child3 {
+    width: 150px;
+    height: 100px;
+    background-color: chartreuse;
+    position: relative;
+
+}
+.child5 {
+    width: 100%;
+    height: 100px;
+    background-color: darkviolet;
+
+}
